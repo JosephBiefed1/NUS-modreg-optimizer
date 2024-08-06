@@ -5,7 +5,7 @@
 This project aims to optimize university timetable scheduling using a genetic algorithm. The goal is to prioritize back-to-back schedules and select e-learning lectures to minimize the number of days students need to attend in-person classes. The project reads timetable data from a JSON file and visualizes the resulting optimized schedule.
 
 ## Features
--**Selenium"": Selenium to scrape data from NUS ECE website.
+- **Selenium**: Selenium to scrape data from NUS ECE website.
 - **Genetic Algorithm**: Utilizes a genetic algorithm to find the optimal timetable.
 - **Back-to-Back Scheduling**: Prioritizes back-to-back classes to reduce gaps between lectures.
 - **E-Learning Selection**: Selects e-learning lectures to minimize the number of days with in-person classes.

@@ -13,8 +13,8 @@ This project aims to optimize university timetable scheduling using a genetic al
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/university-timetable-optimization.git
-    cd university-timetable-optimization
+    git clone https://github.com/JosephBiefed1/NUS-modreg-optimizer.git
+    cd NUSMODS
     ```
 
 2. Install the required dependencies:

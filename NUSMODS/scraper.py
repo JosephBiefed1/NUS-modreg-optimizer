@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def scraper():
     # Install the ChromeDriver and get its path
-    chromedriver_path = "C:\\Users\\tanho\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe"     
+    chromedriver_path = ""     
     print(f"The path of the ChromeDriver is: {chromedriver_path}")
 
     # Create a new Service instance and specify the path to the Chromedriver executable
